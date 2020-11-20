@@ -1,1 +1,3 @@
 # Portfolio_Performance_Simulation
+
+This a more complex python script that take different investment portfolios and performs performance analysis on each of the portfolios. This script calculates daily returns, cumulative returns, standard deviation, and annualized standardized deviation for each portfolio. Sharpe ratios as well as rolling standardized deviation for windows of 21 days and 60 days are also calculated. A heatmap is also created to look for correlations between the different portfolios. This taken even a step further by bringing in historical stock data for Apple, Google, and Cisco to create a custom portfolio, run the same performance analysis as aforementioned to see how this custom portfolio compares to the others.
